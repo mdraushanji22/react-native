@@ -1,4 +1,4 @@
-# React Native - The Practical Guide Code & Course Materials
+# React Native - Hybrid Apps: Android/ios
 
 This repository contains code snapshots and other attachments (e.g., slides) for our [React Native - The Practical Guide](https://acad.link/react-native) course.
 
